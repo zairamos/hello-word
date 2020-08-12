@@ -1,3 +1,2 @@
-# hello-word
-Mi primer repositorio
-Esto es sólo para aprender, no tengo idea de como hacerlo jeje
+# Clubes-de-ciencia-challenge-
+esta es una plantilla para pagina web de clubes challenge 2020
